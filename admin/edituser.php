@@ -138,5 +138,4 @@ if (isset($_POST['username']) && $_POST['username']) {
         <button class="btn btn-success signBtn" type="submit"> Lưu</button>
     </form>
     <div class="error-msg"></div>
-    <a href="<?= BASE_DIR ?>formLogin.php">i have a count</a>
 </div>
