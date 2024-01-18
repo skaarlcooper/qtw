@@ -1,11 +1,9 @@
 <?php
-   $site_info = [
-      'email' => 'admintintuchay@gmail.com',
-      'phone' => '09123123456',
-      'diachi'=>'123, cung Vàng, điện Ngọc, thành phố Trăng Vàng',
-      'tenAdmin' => 'Cao Thị Chót Vót',
-      'tenWebsite'=>'Tin tức tổng hợp',
-      'gioithieu'=>''
-   ]
- ?>
-      
+$site_info = [
+   'email' => 'vinhcpps36667@fpt.edu.vn',
+   'phone' => '0907258002',
+   'diachi' => 'QTSC 9, đường số 9, Công Viên Phần Mềm Quang Trung',
+   'tenAdmin' => 'Cao Phú Vinh',
+   'tenWebsite' => 'Báo giật gân',
+   'gioithieu' => 'Toàn tin giật gân, câu views'
+];
