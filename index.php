@@ -24,7 +24,6 @@ $page = $_GET['page'] ?? "home";
 </head>
 
 <body>
-    <h1>alo alo</h1>
     <div class="container">
         <header><?php require_once "header.php"; ?></header>
         <?php if ($page == "" || $page == "home") { ?>
